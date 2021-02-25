@@ -9,7 +9,7 @@ public class Task07 {
     }
 
     public static void main(String[] args) {
-        int result = solution(50, 50, 96);
+        int result = solution(10, 20, 5);
         System.out.println(result);
     }
 
